@@ -6,7 +6,7 @@
 # /[Bb]uild/
 # /[Bb]uilds/
 # /[Ll]ogs/
-# /[Uu]user[Ss]ettings/
+# /[Uu]ser[Ss]ettings/
 # end: 忽略项目根目录下面的如下文件夹
 
 # start: 忽略项目中 ​**所有层级**​ 的 `Library` 目录
